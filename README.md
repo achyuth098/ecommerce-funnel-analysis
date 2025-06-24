@@ -20,8 +20,6 @@ This project analyzes an e-commerce website’s user journey to uncover conversi
 ## Data
 The full dataset is available https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store.
 
-## Visuals
-![Unique users and stages](Graphs/Unique users and stages.png)
 
 
 ## Requirements
